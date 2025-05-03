@@ -4,7 +4,7 @@ This repository documents my experiments running large language models (LLMs) lo
 
 ## 🧠 Purpose
 
-Explore different ways of running LLMs locally with GPU acceleration ( ROCm ) on AMD hardware.
+Explore a way of running LLMs locally with GPU acceleration ( ROCm ) on AMD hardware.
 
 ## 🛠️ Setup
 
