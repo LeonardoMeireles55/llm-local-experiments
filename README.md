@@ -10,7 +10,6 @@ Explore a way of running LLMs locally with GPU acceleration ( ROCm ) on AMD hard
 
 - **GPU**: AMD RX 6700 XT
 - **OS**: [Windows 11/WSL2-UBUNTU 24.04]
-- **Drivers**: [AMD driver version]
 - **Backends tested**: ROCm
 
 ## Benchmarks
